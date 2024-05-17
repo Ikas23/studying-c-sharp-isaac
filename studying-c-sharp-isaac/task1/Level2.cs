@@ -12,6 +12,8 @@ namespace studying_c_sharp_isaac.task1
         {
             Console.WriteLine("hello from level2");
             Level3_1.RunMe();
+            Level3_2.RunMe();
+
         }
     }
 }
